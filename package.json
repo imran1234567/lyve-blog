@@ -1,0 +1,31 @@
+{
+  "name": "lyve-blog",
+  "version": "1.0.0",
+  "description": "Lyve Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran1234567/lyve-blog.git"
+  },
+  "keywords": [
+    "Angular",
+    "2",
+    "Blog",
+    "Making",
+    "by",
+    "imran"
+  ],
+  "author": "Sk Imran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imran1234567/lyve-blog/issues"
+  },
+  "homepage": "https://github.com/imran1234567/lyve-blog#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.14"
+  }
+}
